@@ -6,7 +6,7 @@ aws_region = "us-west-2"
 
 #The AWS Secrets Manager secret name containing the plaintext Github access token
 github_token_secret_name = "ecs-github-token"
-repository_owner         = "aws-ia"
+repository_owner         = "srinivasponnapalli"
 
 # It is optional to change the below variables
 # core_stack_name is also same as ecs_cluster_name from core-infra
